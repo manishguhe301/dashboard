@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 For Installing Dependencies 
 
-run ### `npm i` in the directory where you cloned this repository
+run `npm i` in the directory where you cloned this repository
 
 ### `npm start`
 
